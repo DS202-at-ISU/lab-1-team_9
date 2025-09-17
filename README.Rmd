@@ -13,13 +13,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 12.2
 
+- Lexi's Note: 
+
+
+
 12.3
+
+- Lexi's Note: 
 
 12.4
 
+- Lexi's Note: 
+
 12.5
 
+- Lexi's Note: 
+
 12.6
+
+- Lexi's Note: 
 
 
 
