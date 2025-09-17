@@ -1,17 +1,72 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-# Lab report \#1
+# Lab report #1
 
-12.2
+## 12.2
 
-12.3
+-   Grace’s Note: Accidentally created my own repo, but teammates helped
+    me use team link instead.
 
-12.4
+-   Logan: Created the repo and had no issues. Found URL with no problem
 
-12.5
+-   Lexi’s Note:
 
-12.6
+-   Nate’s Note: Had to install Git onto my computer first but otherwise
+    was able to access the repo and copy the URL.
+
+## 12.3
+
+-   Grace’s note: Had no issue creating new project
+
+-   Logan:Had a little trouble finding where to insert the GIT URL when
+    I made the new project, but after talking with team I was able to
+    make it.
+
+-   Lexi’s Note:
+
+-   Nate’s Note: Was able to create new project without any issues
+    arising
+
+## 12.4
+
+-   Grace’s Note: Was able to see “This is from RStudio”
+
+-   Logan: Modified the file with no problem. Am able to add all my
+    changes!
+
+-   Lexi’s Note:
+
+-   Nate’s Note: Successfully edited `README` file, was able to save and
+    commit
+
+## 12.5
+
+-   Grace’s Note: Teammates helped me find push button
+
+-   Logan:When committing I had issues with credentials and had to enter
+    in my info to the terminal. After I did that I was able to
+    successfully commit and push my work.
+
+-   Lexi’s Note:
+
+-   Nate’s Note: Committed `README` file successfully pushed without
+    error
+
+## 12.6
+
+-   Grace’s Note: Can see the changes in the group repo
+
+-   Logan: Was able to see the changes!
+
+-   Lexi’s Note:
+
+-   Nate’s Note: Committed changes visible upon returning to Github
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
@@ -26,5 +81,3 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
-
-will’s test
