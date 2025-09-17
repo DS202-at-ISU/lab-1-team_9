@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Lab report #1
 
 
-
+12.2
 Grace's Note: Accidentally created my own repo, but teammates helped me use team link instead. 
 12.3
 Grace's note: Had no issue creating new project
