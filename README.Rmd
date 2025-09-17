@@ -11,16 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Lab report #1
 
-## 12.2
-
-## 12.3
-
-## 12.4
-
-## 12.5
-
-## 12.6
-
+12.2
+Logan: Created the repo and had no issues. Found URL with no problem
+12.3
+Logan:Had a little trouble finding where to insert the GIT URL when I made the new project, but after talking with team I was able to make it.
+12.4
+Logan: Modified the file with no problem. Am able to add all my changes!
+12.5
+Logan:When commiting I had issues with credentials and had to enter in my info to the terminal. After I did that I was able to succesfully commit and push my work.
+12.6
+Logan: Was able to see the changes!
 
 
 Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
@@ -29,9 +29,3 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
-
-
-
-
-
-will's test
