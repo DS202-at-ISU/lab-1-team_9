@@ -12,30 +12,30 @@ knitr::opts_chunk$set(echo = TRUE)
 # Lab report #1
 
 
-12.2
+## 12.2
 
 - Grace's Note: Accidentally created my own repo, but teammates helped me use team link instead. 
 
 - Logan: Created the repo and had no issues. Found URL with no problem
 
-12.3
+## 12.3
 
 - Grace's note: Had no issue creating new project
 
 - Logan:Had a little trouble finding where to insert the GIT URL when I made the new project, but after talking with team I was able to make it.
 
-12.4
+## 12.4
 
 - Grace's Note: Was able to see "This is from RStudio"
 
 - Logan: Modified the file with no problem. Am able to add all my changes!
 
-12.5
+## 12.5
 - Grace's Note: Teammates helped me find push button
 
 - Logan:When commiting I had issues with credentials and had to enter in my info to the terminal. After I did that I was able to succesfully commit and push my work.
 
-12.6
+## 12.6
 
 - Grace's Note: Can see the changes in the group repo
 
