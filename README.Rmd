@@ -48,6 +48,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   Lexi's Note:
 
+-   Nate's Note: Committed `README` file successfully pushed without error
+
 ## 12.6
 
 -   Grace's Note: Can see the changes in the group repo
@@ -55,6 +57,8 @@ knitr::opts_chunk$set(echo = TRUE)
 -   Logan: Was able to see the changes!
 
 -   Lexi's Note:
+
+-   Nate's Note: Committed changes visible upon returning to Github
 
 Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
