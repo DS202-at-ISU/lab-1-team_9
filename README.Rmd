@@ -11,10 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Lab report #1
 
-<<<<<<< HEAD
-=======
-12.2
->>>>>>> 729151c33c6634e42a4fdc218eb3d9beee3d2fe9
+
 
 Grace's Note: Accidentally created my own repo, but teammates helped me use team link instead. 
 12.3
