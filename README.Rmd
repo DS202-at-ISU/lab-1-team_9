@@ -25,6 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Logan:Had a little trouble finding where to insert the GIT URL when I made the new project, but after talking with team I was able to make it.
 
 12.4
+
 - Grace's Note: Was able to see "This is from RStudio"
 
 - Logan: Modified the file with no problem. Am able to add all my changes!
